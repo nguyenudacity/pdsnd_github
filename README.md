@@ -2,8 +2,6 @@
 
 ### Date created
 10 October 2023 by Trang
-TrangPTH
-trangpth@gmail.com
 
 ### Project Title
 Project: Post Your Work on GitHub
