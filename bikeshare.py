@@ -95,7 +95,6 @@ def trip_duration_stats(df):
 
     # display total travel time
 
-
     # display mean travel time
 
 
